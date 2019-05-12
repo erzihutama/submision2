@@ -1,7 +1,7 @@
 ---
 services: storage
 platforms: php
-author: roygara
+author: Erzi Hutama
 ---
 
 # Transfer objects to and from Azure Blob storage using PHP
